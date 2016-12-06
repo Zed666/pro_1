@@ -1,0 +1,15 @@
+div {
+	margin-bottom: 10px;
+}
+
+#div1 {
+	border: 1px solid black;
+	width: 200px;
+	word-break: break-all;
+}
+
+#div2 {
+	border: 1px solid black;
+	width: 200px;
+	word-break: break-word;
+}

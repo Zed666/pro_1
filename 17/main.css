@@ -1,0 +1,60 @@
+div {
+	margin-bottom: 30px;
+}
+
+#id1 {
+    background: rgba(0, 0, 0, 0) 
+    linear-gradient(to top, #fefcea, #f1da36) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#id2 {
+    background: rgba(0, 0, 0, 0) 
+    linear-gradient(to left, #fefcea, #f1da36) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#id3 {
+    background: rgba(0, 0, 0, 0) 
+    linear-gradient(to right, #fefcea, #f1da36) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#id4 {
+    background: rgba(0, 0, 0, 0) 
+    linear-gradient(to left top, red, white) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#id5 {
+    background: rgba(0, 0, 0, 0) 
+    linear-gradient(to right, red 0px, blue 200px, white 350px, red) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 400px;
+}
+
+#id6 {
+    background: rgba(0, 0, 0, 0) 
+    linear-gradient(0deg, red 0px, red 100px, white 100px, white 200px, red 200px, red 300px) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 300px;
+    width: 600px;
+}
+
+
+

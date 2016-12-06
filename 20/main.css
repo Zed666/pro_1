@@ -1,0 +1,12 @@
+#main {
+	huphens: auto;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: justify;
+	width: 70%;
+	text-align: justify;
+}
+
+#main p {
+	-moz-columns: 3 auto;
+}

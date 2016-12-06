@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Lombardina; /* Имя шрифта */
+    src: url(LombardinaInitialOne.ttf); /* Путь к файлу со шрифтом */
+	
+}
+#main{
+	hyphens: auto;
+	width: 70%;
+	margin: 0px auto;
+	padding: 10px;
+	text-align: justify;
+	font-family: Lombardina;
+	font-size: 25pt;
+	
+}

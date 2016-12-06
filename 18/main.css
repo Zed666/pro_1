@@ -1,0 +1,80 @@
+div {
+	margin-bottom: 30px;
+}
+
+#id1 {
+    background: rgba(0, 0, 0, 0) 
+    radial-gradient(#55ddff, #0081b5) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#id2 {
+    background: rgba(0, 0, 0, 0) 
+    radial-gradient(at center top, #55ddff, #0081b5) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px
+}
+
+#id3 {
+    background: rgba(0, 0, 0, 0) 
+    radial-gradient(circle, #55ddff, #0081b5) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 400px
+}
+
+#id4 {
+    background: rgba(0, 0, 0, 0) 
+    radial-gradient(ellipse, #55ddff, #0081b5) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 400px;
+}
+
+#id5 {
+    background: rgba(0, 0, 0, 0) 
+    radial-gradient(circle closest-side, #55ddff, #0081b5) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 400px;
+}
+
+#id6 {
+    background: rgba(0, 0, 0, 0) 
+    radial-gradient(circle closest-corner at 30px 40px, #55ddff, #0081b5) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 400px;
+}
+
+#id7 {
+    background: rgba(0, 0, 0, 0) 
+    radial-gradient(circle closest-side,  #333 10px, white 30px, white 40px, green 50px) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 400px;
+}
+
+#id8 {
+    background: rgba(0, 0, 0, 0) 
+    radial-gradient(circle closest-side, green 0px, green 30px, white 30px, white 50px, green 50px) 
+    repeat scroll 0 0;
+    border: 1px solid black;
+    height: 200px;
+    width: 400px;
+}
+
+
+
+
+

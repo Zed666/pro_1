@@ -1,0 +1,14 @@
+#main {
+	huphens: auto;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: justify;
+	width: 70%;
+	text-align: justify;
+}
+
+#main p {
+    -moz-column-count: 3;
+    -moz-column-gap: 50px;
+    -moz-column-rule: 1px dotted black
+}

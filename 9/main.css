@@ -1,0 +1,19 @@
+div {
+	margin-bottom: 30px;
+}
+
+#dl1 {
+	text-decoration: underline wavy red;
+}
+
+#dl2 {
+	text-decoration: underline dotted red;
+}
+
+#dl3 {
+	text-decoration: underline dashed red;
+}
+
+#dl4 {
+	text-decoration: underline double red;
+}

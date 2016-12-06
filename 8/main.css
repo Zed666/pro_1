@@ -1,0 +1,30 @@
+div {
+	border: 1px solid black;
+	height: 200px;
+	margin: 0 auto 30px;
+	width: 200px;
+}
+
+#dl1 {
+	cursor: pointer;
+}
+
+#dl2 {
+	cursor: progress;
+}
+
+#dl3 {
+	cursor: wait;
+}
+
+#dl4 {
+	cursor: move;
+}
+
+#dl5 {
+	cursor: not-allowed;
+}
+
+#dl6 {
+	cursor: url("arrow.cur"), auto;
+}

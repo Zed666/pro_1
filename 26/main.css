@@ -1,0 +1,56 @@
+div {
+	font: bold 14pt "Times New Roman";
+	margin-bottom: 50px;
+	text-align: justify;
+}
+
+#div1 {
+	background: rgba(0, 0, 0, 0) url("bg1.jpg") no-repeat scroll 0 0 padding-box;
+	border: 10px dotted black;
+	height: 300px;
+	padding: 30px;
+	width: 300px;	
+}
+
+#div2 {
+	background: rgba(0, 0, 0, 0) url("bg1.jpg") no-repeat scroll 0 0 padding-box content-box;
+	border: 10px dotted black;
+	height: 300px;
+	padding: 30px;
+	width: 300px;	
+}
+
+#div3 {
+	background: rgba(0, 0, 0, 0) url("bg1.jpg") no-repeat scroll 0 0;
+	border: 10px dotted black;
+	height: 300px;
+	padding: 30px;
+	width: 300px;	
+}
+
+#div4 {
+	background: blue none repeat scroll 0 0 padding-box;
+	border: 10px dotted black;
+	color: white;
+	height: 300px;
+	padding: 30px;
+	width: 300px;	
+}
+
+#div5 {
+	background: blue none repeat scroll 0 0 padding-box content-box;
+	border: 10px dotted black;
+	color: white;
+	height: 300px;
+	padding: 30px;
+	width: 300px;	
+}
+
+#div6 {
+	background: blue none repeat scroll 0 0;
+	border: 10px dotted black;
+	color: white;
+	height: 300px;
+	padding: 30px;
+	width: 300px;	
+}

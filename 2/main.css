@@ -1,0 +1,14 @@
+table {
+	border-spacing: 10px 5px;
+}
+
+table, td {
+	border: 1px solid #004800;
+}
+
+td {
+	background-color: green;
+	color: white;
+	empty-cells: hide;
+	padding: 3px; 
+}

@@ -1,0 +1,27 @@
+body {
+	background: rgba(0, 0, 0, 0) url("1.jpg") no-repeat scroll -200px -200px;
+}
+
+#d1 {
+	border: 30px solid rgba(255, 255, 255, 0.6);
+	color: white; 
+	height: 150px;
+	left: 30px;
+	padding: 10px;
+	position: absolute;
+	top: 30px;
+	width: 150px;
+}
+
+
+#d2 {
+	border: 30px solid white;
+	color: white; 
+	height: 150px;
+	left: 300px;
+	padding: 10px;
+	position: absolute;
+	top: 30px;
+	width: 150px;
+	opacity: 0.5;
+}

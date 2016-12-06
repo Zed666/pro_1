@@ -1,0 +1,25 @@
+div {
+	border: 1px solid black;
+	margin-bottom: 30px;
+	width: 200px;
+}
+
+#div1 {
+	white-space: nowrap;
+}
+
+#div2 {
+	white-space: pre;
+}
+
+#div3 {
+	white-space: pre-wrap;
+}
+
+#div4 {
+	white-space: pre-line;
+}
+
+#div5 {
+	white-space: normal;
+}

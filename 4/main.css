@@ -1,0 +1,39 @@
+div {
+	border: 1px solid red;
+	margin: 20px 5px;
+	padding: 5px;
+}
+
+#d1 {
+	height: 100px;
+	overflow: hidden; 
+	text-align: justify;
+	width: 100px;
+}
+
+
+#d2 {
+	height: 100px;
+	overflow-y: scroll;
+	text-align: justify;
+	width: 100px;
+}
+
+#d3 {
+	overflow: scroll;
+	text-align: justify;
+	width: 300px;
+}
+
+#d4 {
+	text-align: justify;
+	width: 300px;
+	white-space: nowrap;
+}
+
+#d5 {
+	text-align: justify;
+	width: 300px;
+	overflow: auto;
+	white-space: nowrap;
+}

@@ -1,0 +1,14 @@
+div {
+	width: 400px;
+	margin-bottom: 50px;
+}
+
+#div_1 {
+	text-align: justify;
+	text-align-last: right;
+}
+
+#div_2 {
+	text-align: justify;
+	text-align-last: center;
+}

@@ -1,0 +1,8 @@
+#main {
+	-moz-user-select: none;
+    hyphens: auto;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: justify;
+    width: 70%;
+}
